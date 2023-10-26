@@ -10,9 +10,8 @@ Testowa dokumentacja
    :maxdepth: 2
    :caption: Contents:
 
-   section1
-   section2
-   section3
+   markdown
+   rst
 
 
 Indices and tables

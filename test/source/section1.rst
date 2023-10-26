@@ -1,4 +1,0 @@
-Nagłówek
-========
-
-Przykładowa treść sekcji
