@@ -11,7 +11,6 @@ W jaki sposób piszemy nagłówki?
     ## Nagłówek 2
     ### Nagłówek 3
 
-
 Wyróżnienie tekstu
 ==================
 
