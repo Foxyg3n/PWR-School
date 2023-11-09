@@ -13,7 +13,6 @@ Testowa dokumentacja
    markdown
    rst
 
-
 Indices and tables
 ==================
 
