@@ -24,18 +24,7 @@ Przykład:
 
 Użycie:
 
-===============
-Główny Nagłówek
-===============
-
-Nagłówek
-========
-
-Nagłówek 2
-----------
-
-Nagłówek 3
-~~~~~~~~~~
+niestety nie pokażę przykładu, bo popsułby sturkturę strony ;-;
 
 Notatki i Uwagi
 ===============
@@ -63,14 +52,20 @@ Przykład:
 Linki
 =====
 
+Przykład:
+
 .. code-block :: rst
 
    `Link to Write the Docs <https://www.writethedocs.org/>`_
+
+Użycie:
 
 `Link to Write the Docs <https://www.writethedocs.org/>`_
 
 Tabele
 ======
+
+Przykład:
 
 .. code-block :: rst
 
@@ -81,6 +76,8 @@ Tabele
    +------------------------+-----------------+
    | row 2, column 1        | row 2, column 2 |
    +------------------------+-----------------+
+
+Użycie:
 
 +------------------------+-----------------+
 | Header 1               | Header 2        |
