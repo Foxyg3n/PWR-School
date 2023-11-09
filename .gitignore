@@ -1,2 +1,4 @@
 # sphinx build
-test/build/
+sphinx/build/
+sphinx/Makefile
+sphinx/make.bat
