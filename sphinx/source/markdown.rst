@@ -19,8 +19,8 @@ Wyróżnienie tekstu
     *Ten tekst będzie w kursywie*
     _Ten tekst będzie w kursywie_
 
-    **Ten tekst będzie w kursywie**
-    __Ten tekst będzie w kursywie__
+    **Ten tekst będzie pogrubiony**
+    __Ten tekst będzie pogrubiony__
 
     *Możesz **łączyć** ze sobą znaczniki*
 
